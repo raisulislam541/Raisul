@@ -36,7 +36,7 @@
 ---
 
 ### 📕 Latest Blog Posts
-
+[<img align="left" alt="Medium" width="60px" src="https://cdn.mos.cms.futurecdn.net/xJGh6cXvC69an86AdrLD98.jpg" />][Medium]
 
 ---
 
@@ -46,4 +46,6 @@
 [instagram]: https://www.instagram.com/_raisul_
 [linkedin]: https://www.linkedin.com/in/raisul-islam-336254165
 [HackerRank]: https://www.hackerrank.com/_Mohammad_
+[Medium]: https://medium.com/@raisulislam541
+
 # Raisul
