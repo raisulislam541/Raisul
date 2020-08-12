@@ -36,8 +36,14 @@
 ---
 
 ### 📕 Latest Blog Posts
+<!-- BLOG-POST-LIST:START -->
+- [Decorator in Python](https://medium.com/@raisulislam541)
 
-[<img align="left" alt="Medium" width="60px" src="https://cdn.mos.cms.futurecdn.net/xJGh6cXvC69an86AdrLD98.jpg" />][Medium]
+<!-- BLOG-POST-LIST:END -->
+
+---
+
+
 
 ---
 
@@ -48,5 +54,3 @@
 [linkedin]: https://www.linkedin.com/in/raisul-islam-336254165
 [HackerRank]: https://www.hackerrank.com/_Mohammad_
 [Medium]: https://medium.com/@raisulislam541
-
-# Raisul
