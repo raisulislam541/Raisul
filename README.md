@@ -3,7 +3,7 @@
 ## I'm a Husband and  Developer!
 - 🔭 I’m currently working on  [Alice Labs][website] as Jr. Software Engineer!
 - 🌱 I’m currently learning backend development 
-- 👯 I’m looking forward to working with DevOps 
+- 👯 I’m looking forward to learning Ops 
 - 🥅 2020 Goals: Concentrate on backend development
 - ⚡ Fun fact: I love to  play Football
 
@@ -36,6 +36,7 @@
 ---
 
 ### 📕 Latest Blog Posts
+
 [<img align="left" alt="Medium" width="60px" src="https://cdn.mos.cms.futurecdn.net/xJGh6cXvC69an86AdrLD98.jpg" />][Medium]
 
 ---
