@@ -37,7 +37,7 @@
 
 ### 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
-- [Decorator in Python](https://medium.com/@raisulislam541)
+- [Decorator in Python](https://medium.com/@raisulislam541/decorator-function-fcba9e62d4c4)
 - [Deploy Django Projects in Production Server](https://medium.com/@raisulislam541/deploy-django-project-on-ubuntu-16-04-production-server-step-by-step-fc9e0a837290)
 
 
