@@ -13,7 +13,7 @@
 [<img align="left" alt="Raisul | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="Raisul | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 [<img align="left" alt="Raisul | Hacker Rank" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/4/40/HackerRank_Icon-1000px.png" />][HackerRank]
-[<img align="left" alt="Raisul | Facebook" width="52px" src="https://cdn4.iconfinder.com/data/icons/social-icon-4/842/facebook-512.png" />][Facebook]
+[<img align="left" alt="Raisul | Facebook" width="38px" src="https://cdn4.iconfinder.com/data/icons/social-icon-4/842/facebook-512.png" />][Facebook]
 
 <br />
 
