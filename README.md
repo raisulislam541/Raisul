@@ -1,6 +1,6 @@
 ### Hi there, Assala Mu Alaikum, I'm Raisul 👋
 
-## I'm a Husband and  Developer!
+## Servant of Allah
 - 🔭 I’m currently working on  [Alice Labs][website] as  Software Engineer!
 - 🌱 I’m currently learning backend development 
 - 👯 I’m looking forward to learning DevOps 
