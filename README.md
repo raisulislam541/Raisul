@@ -4,7 +4,7 @@
 - 🔭 I’m currently working on  [Alice Labs][website] as  Software Engineer!
 - 🌱 I’m currently learning backend development 
 - 👯 I’m looking forward to learning DevOps 
-- 🥅 2021 Goals: Concentrate on backend development
+- 🥅 2022 Goals: Concentrate on backend development and SRE
 - ⚡ Fun fact: I love to  play Football
 
 ### Connect with me:
