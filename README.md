@@ -55,7 +55,7 @@
 [website]: https://www.getalice.ai/
 [twitter]: https://twitter.com/Rai_su_l
 [instagram]: https://www.instagram.com/_raisul_
-[linkedin]: https://www.linkedin.com/in/raisul-islam-336254165
+[linkedin]: https://www.linkedin.com/in/mohammad-raisul-islam-403a50103/
 [HackerRank]: https://www.hackerrank.com/_Mohammad_
 [Medium]: https://medium.com/@raisulislam541
 [Facebook]: https://www.facebook.com/raisul.sajal
