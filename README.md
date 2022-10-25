@@ -1,9 +1,8 @@
 ### Hi there, Assala Mu Alaikum, I'm Raisul 👋
 
 ## Profile
-- 🔭 I’m currently working on  [Alice Labs][website] as  Software Engineer!
-- 🌱 I’m currently learning backend development 
-- 👯 I’m looking forward to learning DevOps 
+- 🔭 I’m currently working on  [Alice Labs][website] as  Site Reliability Engineer!
+- 🌱 I’m currently learning backend development and Devops
 - 🥅 2022 Goals: Concentrate on backend development and SRE
 - ⚡ Fun fact: I love to  play Football
 
