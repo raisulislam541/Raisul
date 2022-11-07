@@ -51,7 +51,7 @@
 ---
 
 
-[website]: https://www.getalice.ai/
+[website]: https://www.myalice.ai/
 [twitter]: https://twitter.com/Rai_su_l
 [instagram]: https://www.instagram.com/_raisul_
 [linkedin]: https://www.linkedin.com/in/mohammad-raisul-islam-403a50103/
