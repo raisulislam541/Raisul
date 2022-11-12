@@ -26,6 +26,8 @@
 [<img align="left" alt="FastApi" width="60px" src="https://repository-images.githubusercontent.com/260928305/92388600-8d1c-11ea-9993-a726466b5099" />]
 [<img align="left" alt="Django" width="60px" src="https://banner2.cleanpng.com/20180711/rtc/kisspng-django-web-development-web-framework-python-softwa-django-5b45d913f29027.4888902515313042119936.jpg" />]
 [<img align="left" alt="Redis" width="60px" src="https://i0.wp.com/www.techrunnr.com/wp-content/uploads/2018/08/redisss.png?fit=308%2C260&ssl=1" />]
+[<img align="left" alt="Docker" width="60px" src="https://www.padok.fr/hubfs/Imported_Blog_Media/docker-hub-hack-blog-banner-2.webp" />]
+[<img align="left" alt="Kubernetes" width="60px" src="https://pbs.twimg.com/card_img/1588456802978594818/Ym2RZ09t?format=png&name=small" />]
 
 <br />
 <br />
