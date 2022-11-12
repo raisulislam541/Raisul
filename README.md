@@ -17,8 +17,9 @@
 <br />
 
 ### Languages and Tools:
+<br/>
 
-[<img align="left" alt="SQL" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />]
+[<img align="left" alt="Postgres" width="60px" src="https://2s7gjr373w3x22jf92z99mgm5w-wpengine.netdna-ssl.com/wp-content/uploads/2022/05/PostgreSQL_logo.png"/>]
 [<img align="left" alt="Git" width="60px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />]
 [<img align="left" alt="AWS" width="60px" src="https://imageio.forbes.com/specials-images/imageserve/61aff357a4c71fc225ab8ba7/AWS-logo/1960x0.jpg?format=jpg&width=960"/>]
 [<img align="left" alt="Python" width="60px" src="https://www.pngitem.com/pimgs/m/159-1595877_python-logo-png-python-logo-transparent-png.png" />]
@@ -27,7 +28,7 @@
 [<img align="left" alt="Redis" width="60px" src="https://i0.wp.com/www.techrunnr.com/wp-content/uploads/2018/08/redisss.png?fit=308%2C260&ssl=1" />]
 [<img align="left" alt="Docker" width="60px" src="https://www.padok.fr/hubfs/Imported_Blog_Media/docker-hub-hack-blog-banner-2.webp"/>]
 [<img align="left" alt="Kubernetes" width="60px" src="https://pbs.twimg.com/card_img/1588456802978594818/Ym2RZ09t?format=png&name=small"/>]
-<!-- [<img align="left" alt="Postgres" width="60px" src="https://2s7gjr373w3x22jf92z99mgm5w-wpengine.netdna-ssl.com/wp-content/uploads/2022/05/PostgreSQL_logo.png"/>] -->
+
 
 
 <br />
