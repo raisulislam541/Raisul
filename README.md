@@ -2,8 +2,8 @@
 
 ## Profile
 - 🔭 I’m currently working on  [Alice Labs][website] as  Site Reliability Engineer!
-- 🌱 I’m currently learning backend development and Devops
-- 🥅 2023 Goals: Concentrate on backend development and SRE
+- 🌱 I’m currently learning elasticsearch and Data Structure & Algorithm
+- 🥅 2023 Goals: Concentrate on backend development and SRE and Problem Solving
 - ⚡ Fun fact: I love to  play Football
 
 ### Connect with me:
