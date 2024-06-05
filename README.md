@@ -1,9 +1,9 @@
 ### Hi there, Assala Mu Alaikum, I'm Raisul 👋
 
 ## Profile
-- 🔭 I’m currently working on  [Alice Labs][website] as  Site Reliability Engineer!
-- 🌱 I’m currently learning elasticsearch, Terraform
-- 🥅 2023 Goals: Concentrate on DevOps and Problem Solving
+- 🔭 I’m currently working on  IQVIA as  Site Reliability Engineer!
+- 🌱 I’m currently learning GO
+- 🥅 2024 Goals: Concentrate on DevOps and Problem Solving
 - ⚡ Fun fact: I love to  play Football
 
 ### Connect with me:
